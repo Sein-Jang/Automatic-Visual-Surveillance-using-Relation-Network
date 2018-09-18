@@ -13,25 +13,25 @@ We generate the Dataset for the initial experiment to demonstrate our hypothesis
 1) *"Normal"* - Not thing Danger in the CCTV.
 
 <p align="center">
-    <img src="Figure/normal.png" height="350"/>
+    <img src="Figure/normal.png" height="300"/>
 </p>
 
 2) *"Danger tool"* - There is danger tool, such as knife or bat in the CCTV. But no one uses it.
 
 <p align="center">
-    <img src="Figure/danger_tool.png" height="350"/>
+    <img src="Figure/danger_tool.png" height="300"/>
 </p>
 
 3) *"Potential crime"* - Someone has dangerous tools.
 
 <p align="center">
-    <img src="Figure/potential_crime.png" height="350"/>
+    <img src="Figure/potential_crime.png" height="300"/>
 </p>
 
 4) *"Dangerous"* - Someone is doing a danger action using a dangerous tool. For example, wielding a knife or bat.
 
 <p align="center">
-    <img src="Figure/dangerous.png" height="350"/>
+    <img src="Figure/dangerous.png" height="300"/>
 </p>
 
 
@@ -58,7 +58,9 @@ $ tensorboard --logdir="path of model" --host=localhost
 
 ### If Object Detection has 100% acc performance.
 Our model accuracy & loss
-<img src="Figure/result/100.png" height="200"/>
+
+<img src="Figure/result/100.png"/>
+
 
 | Approach | Accuracy |
 | --- | --- |
@@ -72,7 +74,9 @@ Our model accuracy & loss
 
 ### If Object Detection has 90% acc performance.
 Our model accuracy & loss
-<img src="Figure/result/90.png" height="200"/>
+
+<img src="Figure/result/90.png"/>
+
 
 | Approach | Accuracy |
 | --- | --- |
@@ -86,7 +90,9 @@ Our model accuracy & loss
 
 ### If Object Detection has 80% acc performance.
 Our model accuracy & loss
-<img src="Figure/result/80.png" height="200"/>
+
+<img src="Figure/result/80.png"/>
+
 
 | Approach | Accuracy |
 | --- | --- |
@@ -100,7 +106,9 @@ Our model accuracy & loss
 
 ### If Object Detection has 70% acc performance.
 Our model accuracy & loss
-<img src="Figure/result/70.png" height="200"/>
+
+<img src="Figure/result/70.png"/>
+
 
 | Approach | Accuracy |
 | --- | --- |
