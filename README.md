@@ -119,3 +119,9 @@ Our model accuracy & loss
 | MLP | - |
 | CNN + Object Detection | - |
 | CNN + Object Detection + RN (OURS) | **88%** |
+
+
+## Further work
+  - [ ] Overfitting Problem.
+  - [ ] Integrate the Model, into an End-to-End Model. (Image Processing + Object Detection + Relation Network)
+  - [ ] More Dataset, More Situation.
